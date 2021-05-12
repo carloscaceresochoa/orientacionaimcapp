@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IMCAPP</string>
+    <string name="titulot">Calculo Indice Masa Corporal</string>
+    <string name="pesot">Digite el Peso (Kg)</string>
+    <string name="estt">Digite la Estatura (Cm) </string>
+    <string name="botot">Boton Calcular</string>
+    <string name="valort">Valor Indice</string>
+    <string name="indicadort">Indicador</string>
+</resources>
